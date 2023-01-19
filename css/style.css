@@ -7,7 +7,7 @@ body{
 div {
     width: 100px;
     height: 100px;
-    background-color: red;
+    background-color: black;
     position: absolute;
     animation-name: animation;
     animation-duration: 5s;
